@@ -14,6 +14,11 @@ If you know of any opportunities that would be a good fit for my skillset and ca
 <h2>📜 Certifications</h2>
 
 - [CompTIA - CySA+](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [CompTIA - Security+](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [CompTIA - Network+](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [CompTIA - A+](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [Cloud Security Alliance - CCSK v4](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [Linux Professional Institute - Linux Essentials](https://lpi.org/v/LPI000572090/bdpb4nxjjk)
 
 <h2> 🤖 Connect with me:</h2>
 
