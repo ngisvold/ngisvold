@@ -18,6 +18,7 @@ If you know of any opportunities that would be a good fit for my skillset and ca
 - [CompTIA - Network+](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [CompTIA - A+](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [Cloud Security Alliance - CCSK v4](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [AWS - Cloud Practitioner](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [Linux Professional Institute - Linux Essentials](https://lpi.org/v/LPI000572090/bdpb4nxjjk)
 
 <h2> 🤖 Connect with me:</h2>
