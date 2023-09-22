@@ -9,7 +9,7 @@ If you know of any opportunities that would be a good fit for my skillset and ca
 <h2>🛡️ My Projects:</h2>
 
 - <b><a href='https://github.com/ngisvold/Sentinel-Azure-Honeypot/blob/main/README.md'>Azure Sentinel Honeypot Monitoring Project</a></b>
-- <b><a href='https://nathangisvold.com/zero-trust/'>Cloudflare Zero Trust Tunnel Setup Guide</a></b>
+- <b><a href='https://nathangisvold.com/zero-trust/'>Cloudflare Zero Trust Tunnel Guide</a></b>
 
 <h2>📜 Certifications</h2>
 
