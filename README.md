@@ -9,12 +9,14 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA - CySA+](https://www.credly.com/users/nathaniel-gisvold/badges)
+- [CompTIA - Pentest+](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [CompTIA - Security+](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [CompTIA - Network+](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [CompTIA - A+](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [Cloud Security Alliance - CCSK v4](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [AWS - Cloud Practitioner](https://www.credly.com/users/nathaniel-gisvold/badges)
 - [Linux Professional Institute - Linux Essentials](https://lpi.org/v/LPI000572090/bdpb4nxjjk)
+- [ITIL v4 - IT Service Management](https://www.dropbox.com/scl/fi/h0kp1xer9xrrpr2ljbnta/ITIL.pdf?rlkey=uev8u7mp1dauel8ljxwkk5u0r&e=1&dl=0)
 
 <h2> 🤖 Connect with me:</h2>
 
