@@ -1,9 +1,5 @@
 <h1>Hi, I'm Nathan!</h1>
 
-<h2>🛡️ My Projects:</h2>
-
-- <b><a href='https://github.com/ngisvold/Sentinel-Azure-Honeypot/blob/main/README.md'>Azure Sentinel Honeypot Monitoring Project</a></b>
-
 
 <h2>📜 Certifications</h2>
 
